@@ -1,2 +1,2 @@
 # Youtube-Downloader
-App to download videos from youtube
+App to simple download videos from youtube
